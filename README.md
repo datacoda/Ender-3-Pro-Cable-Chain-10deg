@@ -1,5 +1,8 @@
 # Ender 3/Ender 3 Pro Cable Chain v2 - 10 Deg Mount Parts 
 
+![alt text](https://github.com/datacoda/Ender-3-Pro-Cable-Chain-10deg/raw/master/thingiverse/images/53d7bb1f10279e9054f5b1a17b0ccbf4_preview_featured.jpg "10 deg mount")
+
+
 ## Summary
 
 The Ender 3 Pro and later variants have an angled bed cable.  There are various cable links designed to alleviate stress on the cables themselves.  This project modifies some parts of existing designs to account for the 10 deg angle.
