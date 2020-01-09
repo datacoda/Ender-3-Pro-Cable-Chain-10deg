@@ -1,6 +1,6 @@
 # Ender 3/Ender 3 Pro Cable Chain v2 - 10 Deg Mount Parts 
 
-![alt text](https://github.com/datacoda/Ender-3-Pro-Cable-Chain-10deg/raw/master/thingiverse/images/53d7bb1f10279e9054f5b1a17b0ccbf4_preview_featured.jpg "10 deg mount")
+![alt text](preview.jpg "Preview")
 
 
 ## Summary
